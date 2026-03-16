@@ -1,5 +1,3 @@
-# Hey, I'm Renan Paes 👋
-
 **Full-Stack Developer** who built and scaled a digital agency from zero to **$20,000+/month** in revenue. I don't just write code — I build products that drive real business results.
 
 🇧🇷 Based in Curitiba, Brazil · Open to **remote opportunities worldwide**
@@ -8,7 +6,7 @@
 
 ### What I'm working on
 
-🔭 Currently building **[Creator Dashboard](https://github.com/yamatadev/creator-dashboard)** — a full-stack analytics platform for content creator management
+🔭 Currently improving **[Job Tracker]**
 
 🚀 Previously founded & scaled a content creator management agency, handling operations, automation, and growth strategy
 
